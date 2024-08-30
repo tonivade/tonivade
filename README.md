@@ -4,6 +4,8 @@
 
 [![tonivade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonivade&hide=html,css,Makefile&show_icons=true&bg_color=343640&theme=tokyonight&hide_border=true)](https://github.com/tonivade)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tonivade&title=-Reviews&column=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **tonivade/tonivade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
