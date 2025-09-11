@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Take a look to my [blog](https://blog.tonivade.es).
+
 [![tonivade's Github stats](https://github-readme-stats.vercel.app/api?username=tonivade&show_icons=true&bg_color=343640&theme=tokyonight&hide_border=true)](https://github.com/tonivade)
 
 [![tonivade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonivade&hide=html,css,Makefile&show_icons=true&bg_color=343640&theme=tokyonight&hide_border=true)](https://github.com/tonivade)
