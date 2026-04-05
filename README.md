@@ -2,11 +2,11 @@
 
 Take a look to my [blog](https://blog.tonivade.es).
 
-[![tonivade's Github stats](./profile/stats.svg)](https://github.com/tonivade)
+[![tonivade's Github stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-[![tonivade's Top Languages](./profile/top-langs.svg)](https://github.com/tonivade)
+[![tonivade's Top Languages](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tonivade&title=-Reviews&column=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](./profile/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **tonivade/tonivade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
