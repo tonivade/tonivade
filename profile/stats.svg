@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Antonio Mu&#241;oz's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 466, Total Commits  (last year) : 1958, Total PRs: 203, Total Issues: 132, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 466, Total Commits  (last year) : 1967, Total PRs: 203, Total Issues: 132, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 22.00717006330534;
+        stroke-dashoffset: 22.002639602550968;
       }
     }
   
